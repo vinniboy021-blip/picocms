@@ -389,7 +389,7 @@ grep '"blocked-uri"' csp-reports.json | grep -v 'self\|your-domain.example'
 | 09/10/2026 | Browser-side JavaScript execution reproduced |
 | 19/10/2026 | Finding reframed as resource URL injection with conditional cache poisoning/XSS impact |
 | 29/10/2026 | Advisory finalized and vendor notified via email (picocms.org@daniel-rudolf.de) |
-| Pending | Vendor acknowledgment |
+| 29/10/2026 | Vendor notified via email (picocms.org@daniel-rudolf.de) |
 | Pending | CVE requested |
 | Pending | Fix made available |
 | Pending | Advisory published |
@@ -401,7 +401,7 @@ grep '"blocked-uri"' csp-reports.json | grep -v 'self\|your-domain.example'
 - **Vendor / Maintainer:** Daniel Rudolf (picocms)
 - **Channel used:** Direct email per SECURITY.md (picocms.org@daniel-rudolf.de)
 - **Date of first notification:** 29/10/2026
-- **Response status:** Awaiting response
+- **Response status:** Awaiting response — email sent 29/10/2026
 - **Vendor position:** N/A
 
 ---
