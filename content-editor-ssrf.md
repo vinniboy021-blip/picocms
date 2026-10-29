@@ -418,7 +418,7 @@ grep -r 'ContentToolsUrl' /var/www/pico/content/
 | 26/10/2026 | Confirmed dynamically in authorized lab — outbound callback received |
 | 26/10/2026 | Non-blind response disclosure confirmed |
 | 29/10/2026 | Advisory finalized and vendor notified via email (contact@nliautaud.fr) |
-| Pending | Vendor acknowledgment |
+| 29/10/2026 | Vendor notified via email (contact@nliautaud.fr) |
 | Pending | CVE requested |
 | Pending | Fix made available |
 | Pending | Advisory published |
@@ -430,7 +430,7 @@ grep -r 'ContentToolsUrl' /var/www/pico/content/
 - **Vendor / Maintainer:** Nicolas Liautaud (nliautaud)
 - **Channel used:** Direct email (contact@nliautaud.fr)
 - **Date of first notification:** 29/10/2026
-- **Response status:** Awaiting response
+- **Response status:** Awaiting response — email sent 29/10/2026
 - **Vendor position:** N/A
 
 ---
